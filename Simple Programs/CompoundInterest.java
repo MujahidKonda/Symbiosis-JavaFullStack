@@ -17,5 +17,6 @@ class CompoundInterest {
         double amount = principal * Math.pow(1 + (rate / (n * 100)), n * time);
         double ci = amount - principal;
         System.out.print("\nCompound Interest = " + ci);
+        s.close();
     }
 }

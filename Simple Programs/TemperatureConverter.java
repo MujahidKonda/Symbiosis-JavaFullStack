@@ -9,5 +9,6 @@ class temperature{
 		float F = sc.nextInt();
 		float C = ( F - 32 ) * 5/9 ;
 		System.out.println("Temperature in Celcius is :" +C );
+		sc.close();
 	}
 }
