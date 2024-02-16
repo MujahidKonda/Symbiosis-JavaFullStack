@@ -10,6 +10,7 @@ class simpleinterest{
         System.out.print("\nEnter the Time (in years) : ");
         int t = sc.nextInt();
         int ia = pa * ir * t /100;
+        System.out.print("\nThe Principal Amount : " +pa );
         System.out.print("\nThe Interest Amount : " +ia );
         int fa = ia + pa;
         System.out.print("\nThe Final Amount : " +fa );
