@@ -1,16 +1,22 @@
 package classprograms;
 
+import java.util.Scanner;
+
 class add{
-    int a= 5;
-    int b= 5;
     public void sum(){
-        System.out.printf("Sum is = %d",(a+b));
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter 1st number :");
+        int a = sc.nextInt();
+        System.out.print("Enter 2nd number :");
+        int b= sc.nextInt();
+        System.out.printf("Sum is = %d", a+b );
+        sc.close();
     }
 }
 
 class p3 {
     public static void  main(String[] args){
-        add c = new add();
-        c.sum();
+        add a = new add();
+        a.sum();
     }
 }
