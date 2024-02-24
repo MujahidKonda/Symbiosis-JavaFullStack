@@ -1,0 +1,10 @@
+JAVA Static keyword
+
+~ this feature is useful when we want to create a variable common to all instances of a class.
+~ this static can be : 	1. variable(also know as class variable)
+			2. method(also know as class method)
+			3. block
+			4. nested class
+~ if you declare any variable as static, it is know as static variable.
+~ Advantage: it makes your program memory efficient.
+~ 
