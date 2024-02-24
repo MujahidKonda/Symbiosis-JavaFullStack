@@ -7,4 +7,3 @@ JAVA Static keyword
 			4. nested class
 ~ if you declare any variable as static, it is know as static variable.
 ~ Advantage: it makes your program memory efficient.
-~ 

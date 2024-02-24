@@ -1,4 +1,4 @@
-package classprograms;
+package classprograms; //
 
 class p6 {
     int rollno;
