@@ -7,3 +7,9 @@ JAVA Static keyword
 			4. nested class
 ~ if you declare any variable as static, it is know as static variable.
 ~ Advantage: it makes your program memory efficient.
+
+JAVA Constructor 
+
+~ Constructor in java is a special type of method that is used to initialize the object
+~ Java Constructor is invoked at the time of object creation.
+~ It constructs the values i.e. provides data for the object that is why it is know as constructors.
