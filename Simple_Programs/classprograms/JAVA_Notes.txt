@@ -1,15 +1,25 @@
 JAVA Static keyword
 
-~ this feature is useful when we want to create a variable common to all instances of a class.
-~ this static can be : 	1. variable(also know as class variable)
-			2. method(also know as class method)
-			3. block
-			4. nested class
-~ if you declare any variable as static, it is know as static variable.
-~ Advantage: it makes your program memory efficient.
+	DEFINATION:-
+		~ this feature is useful when we want to create a variable common to all instances of a class.
+		~ this static can be : 	1. variable(also know as class variable)
+					2. method(also know as class method)
+					3. block
+					4. nested class
+		~ if you declare any variable as static, it is know as static variable.
+	ADVANTAGES:-
+		~ it makes your program memory efficient.
 
 JAVA Constructor 
 
-~ Constructor in java is a special type of method that is used to initialize the object
-~ Java Constructor is invoked at the time of object creation.
-~ It constructs the values i.e. provides data for the object that is why it is know as constructors.
+	DEFINATION:-
+		~ Constructor in java is a special type of method that is used to initialize the object
+		~ Java Constructor is invoked at the time of object creation.
+		~ It constructs the values i.e. provides data for the object that is why it is know as constructors.
+	BASIC RULES:-
+		~ Constructor name must be same as its class name.
+		~ Constructor must have no explicit return type
+	TYPES:-
+		~ Default Constructor (no argument constructor)
+		~ Parameterized Constructor.
+
