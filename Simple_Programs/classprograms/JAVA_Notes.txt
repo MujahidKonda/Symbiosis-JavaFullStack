@@ -3,9 +3,9 @@ JAVA Static keyword
 	DEFINATION:-
 		~ this feature is useful when we want to create a variable common to all instances of a class.
 		~ this static can be : 	1. variable(also know as class variable)
-					2. method(also know as class method)
-					3. block
-					4. nested class
+								2. method(also know as class method)
+								3. block
+								4. nested class
 		~ if you declare any variable as static, it is know as static variable.
 	ADVANTAGES:-
 		~ it makes your program memory efficient.
@@ -23,3 +23,19 @@ JAVA Constructor
 		~ Default Constructor (no argument constructor)
 		~ Parameterized Constructor.
 
+JAVA Polymorphism
+
+	DEFINATION:-
+		~ Polymorphism is an important feature of Object Oriented Programming.
+		~ Polymorphism is the ability of an object to take on many forms.
+		~ The most common use of polymorphism in OOP occurs when a parent class reference is used to refer to a child class object.
+		~ Any Java object that can pass more than one IS-A test is considered to be polymorphic.
+	TYPES:-
+		~ Compile time polymorphism(Static Polymorphism)
+		~ Runtime Polymorphism(Dynamic Polymorphism)
+	ADVANTAGES:-
+		~ Code reusability, extensibility
+		~ Overloaded Constructor
+		~ Ease of Implementation
+		~ Code Cleanliness
+		~ Aligned with real world

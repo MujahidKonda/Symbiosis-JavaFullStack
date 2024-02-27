@@ -18,6 +18,7 @@ class p12 {
         a = sc.nextInt();
         System.out.print("Enter Second Number: ");
         b = sc.nextInt();
+        sc.close();
     }
 
     void result(){
