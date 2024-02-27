@@ -39,3 +39,68 @@ JAVA Polymorphism
 		~ Ease of Implementation
 		~ Code Cleanliness
 		~ Aligned with real world
+
+JAVA Encapsulation
+
+	DEFINATION:-
+		~ Encapsulation is the process of bundling data and methods together into a single unit.
+		~ This unit is known as an object.
+		~ Encapsulation is used to hide the implementation details of an object from other objects.
+	ADVANTAGES:-
+		~ Data hiding
+		~ Code reusability
+		~ Improved maintainability
+		~ Increased security
+
+JAVA Abstraction
+
+	DEFINATION:-
+		~ Abstraction is the process of hiding the implementation details of an object from the user.
+		~ The user only sees the essential details of the object.
+		~ Abstraction is used to make the code easier to understand and use.
+	ADVANTAGES:-
+		~ Code reusability
+		~ Improved maintainability
+		~ Increased security
+
+JAVA Inheritance
+
+	DEFINATION:-
+		~ Inheritance is the process of creating a new class from an existing class.
+		~ The new class is called the child class and the existing class is called the parent class.
+		~ Inheritance allows the child class to inherit the properties and methods of the parent class.
+	TYPES:-
+		~ Single level inheritance
+		~ Multilevel inheritance
+		~ Hierarchical inheritance
+		~ Multiple inheritance
+	ADVANTAGES:-
+		~ Code reusability
+		~ Improved maintainability
+		~ Increased security
+
+JAVA Interface
+
+	DEFINATION:-
+		~ An interface is a contract between two or more classes.
+		~ It defines a set of methods that must be implemented by any class that implements the interface.
+		~ An interface cannot contain any instance variables.
+	TYPES:-
+		~ Single interface
+		~ Multiple interface
+	ADVANTAGES:-
+		~ Code reusability
+		~ Improved maintainability
+		~ Increased security
+
+JAVA Abstract Class
+
+	DEFINATION:-
+		~ An abstract class is a class that cannot be instantiated.
+		~ It can contain both abstract and non-abstract methods.
+		~ An abstract method is a method that does not have a body.
+		~ A class that extends an abstract class must implement all of the abstract methods of the parent class.
+	TYPES:-
+		~ Simple abstract class
+		~ Abstract class with abstract methods
+		~
