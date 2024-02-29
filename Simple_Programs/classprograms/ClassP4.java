@@ -1,3 +1,4 @@
+package classprograms;
 class classp3{
     public static void main(String[] cp){
         float buyingPrice = 20.54f;
