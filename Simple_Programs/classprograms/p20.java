@@ -7,15 +7,16 @@ class p20 {
     void get(){
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter the value of a = ");
+        System.out.print("\nEnter the value of a = ");
         a =  sc.nextInt();
 
-        System.out.print("Enter the value of b = ");
+        System.out.print("\nEnter the value of b = ");
         b =  sc.nextInt();
+       
     }
 
     void disp(){
-        System.out.print(" Addition of a and b = "+(a+b));
+        System.out.print("\nAddition of a and b = "+(a+b));
     }
 }
 
@@ -25,13 +26,14 @@ class addition extends p20 {
     void get2(){
         Scanner sc = new Scanner(System.in);
     
-        System.out.print("Enter the value of c = ");
+        System.out.print("\nEnter the value of c = ");
         c =  sc.nextInt();
+        sc.close();
 
     }
 
     void display(){
-        System.out.print("Addition of a, b and c = "+(a+b+c));
+        System.out.print("\nAddition of a, b and c = "+(a+b+c));
     }
 
     public static void main(String[] args){
