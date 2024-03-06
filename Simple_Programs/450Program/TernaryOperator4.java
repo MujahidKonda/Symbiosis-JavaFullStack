@@ -7,6 +7,7 @@ class TernaryOperator4 {
         int a = sc.nextInt();
         System.out.print("Enter Second number : ");
         int b = sc.nextInt();
+        sc.close();
 
         if( a == b){
             System.out.print("Both are equal");
