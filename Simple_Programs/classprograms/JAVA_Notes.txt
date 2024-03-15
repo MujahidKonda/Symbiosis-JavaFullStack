@@ -73,7 +73,7 @@ JAVA Inheritance
 		~ Single level inheritance
 		~ Multilevel inheritance
 		~ Hierarchical inheritance
-		~ Multiple inheritance
+		~ Multiple inheritance (Through Interface Inheritance)
 	ADVANTAGES:-
 		~ Code reusability
 		~ Improved maintainability
@@ -85,6 +85,7 @@ JAVA Interface
 		~ An interface is a contract between two or more classes.
 		~ It defines a set of methods that must be implemented by any class that implements the interface.
 		~ An interface cannot contain any instance variables.
+		~ It can be used to achieve loose coupling.
 	TYPES:-
 		~ Single interface
 		~ Multiple interface
@@ -103,4 +104,66 @@ JAVA Abstract Class
 	TYPES:-
 		~ Simple abstract class
 		~ Abstract class with abstract methods
-		~
+		~ Abstract class with non-abstract methods
+	ADVANTAGES:-
+		~ Code reusability
+		~ Improved maintainability
+		~ Increased security
+
+JAVA Packages
+
+	DEFINATION:-
+		~ A package is a way to organize related classes and interfaces.
+		~ A package can contain multiple classes and interfaces.
+		~ A package can be imported into another package.
+		~ This allows the classes and interfaces in the imported package to be used in the importing package.
+	TYPES:-
+		~ Default package
+		~ Named package
+	ADVANTAGES:-
+		~ Code reusability
+		~ Improved maintainability
+		~ Increased security
+
+JAVA Exception Handling
+
+	DEFINATION:-
+		~ Exception handling is a mechanism for dealing with errors that occur during the execution of a program.
+		~ An exception is an object that represents an error.
+		~ When an exception occurs, the program can either handle the exception or it can crash.
+	TYPES:-
+		~ Checked exceptions
+		~ Unchecked exceptions
+	ADVANTAGES:-
+		~ Code reusability
+		~ Improved maintainability
+		~ Increased security
+
+JAVA Multithreading
+
+	DEFINATION:-
+		~ Multithreading is a way of running multiple threads of execution within a single process.
+		~ A thread is a unit of execution that can run concurrently with other threads.
+		~ Multithreading can improve the performance of a program by allowing multiple tasks to be executed at the same time.
+	TYPES:-
+		~ User-level threading
+		~ Kernel-level threading
+	ADVANTAGES:-
+		~ Code reusability
+		~ Improved maintainability
+		~ Increased security
+
+JAVA Concurrency
+
+	DEFINATION:-
+		~ Concurrency is the ability of a program to execute multiple tasks at the same time.
+		~ Concurrency can be achieved through multithreading or through other mechanisms.
+		~ Concurrency can improve the performance of a program by allowing multiple tasks to be executed at the same time.
+	TYPES:-
+		~ Multithreading
+		~ Asynchronous programming
+		~ Event-driven programming
+	ADVANTAGES:-
+		~ Code reusability
+		~ Improved maintainability
+		~ Increased security
