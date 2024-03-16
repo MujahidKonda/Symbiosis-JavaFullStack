@@ -14,6 +14,6 @@ class p31 implements showable3{
         return a;
     }
     public void show(){
-        System.out.print(a);
+        
     }
 }

@@ -12,7 +12,7 @@ class p33 {
             sum = sum + arr[i];
         }
         float avg = sum/arr.length;
-        System.out.println("Average of numbers : "+avg);
+        System.out.println("\nAverage of numbers : "+avg);
         sc.close();
     }
 }
