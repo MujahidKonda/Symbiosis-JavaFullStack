@@ -1,0 +1,8 @@
+Write Features of JAVA:
+
+Features of java are as follows :-
+platform independent - It can run on any OS which have JVM(Java Virtual machine) installed.
+Object Oriented - It is an object Oriented programming language which is built around objects.
+Secure - Java has built-in security feature such as it does not allow direct memory access.
+Easy to learn - It has an easy to understand syntax for beginners.
+High Performance - it is also used for developing applications that require high computing power. 

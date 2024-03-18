@@ -1,0 +1,5 @@
+JDK and its uses:
+
+JDK stands for Java Development kit. It inculdes JRE (Java Runtime Enviornment). 
+It is used for Compiling java code, Developing java applications, 
+Running java applications, Creating java documentations, Debugging.
