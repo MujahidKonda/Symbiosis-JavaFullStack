@@ -141,7 +141,13 @@ JAVA Exception Handling
 
 JAVA Multithreading
 
-	DEFINATION:-
+	DEFINATION(Threading):-
+		~ Process and thread are two basic unit of java program execution.
+		~ Process: A Process is a self conatined execution environment and it cen be seen as a program or application.
+		~ Thread: it can be called lightweight process. Thread requires less resources to create and exists in the process. 
+		~ Thread shares the process resources.
+		~ The run() and start() are two inbuilt methods which helps to thread implementation.
+	DEFINATION(Multithreading):-
 		~ Multithreading is a way of running multiple threads of execution within a single process.
 		~ A thread is a unit of execution that can run concurrently with other threads.
 		~ Multithreading can improve the performance of a program by allowing multiple tasks to be executed at the same time.
