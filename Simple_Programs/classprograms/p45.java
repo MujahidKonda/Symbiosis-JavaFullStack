@@ -18,12 +18,18 @@ class p45{
     public static void main(String[] args){
         System.out.println("Hello");
         System.out.println("MAin Thread is "+Thread.currentThread().getPriority());
+
         threadr3 t1 = new threadr3();
         threadr4 t2 = new threadr4();
+
         Thread t3 = new Thread(t1);
         t3.setName("Thread1");
+        t3.setPriority(1);
+
         Thread t4 = new Thread(t2);
         t4.setName("Thread2");
+        t4.setPriority(10);
+
         t3.start();
         t4.start();
     }
