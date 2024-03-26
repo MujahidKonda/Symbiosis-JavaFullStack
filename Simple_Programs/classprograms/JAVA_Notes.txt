@@ -158,6 +158,19 @@ JAVA Multithreading
 		~ Code reusability
 		~ Improved maintainability
 		~ Increased security
+	THREAD METHODS:-
+		~ String getName() -- Retrive the name of running thread in the correct context in String format.
+		~ void start() -- the method will start a new thread of execution by calling run() method of thread/runnable object.
+		~ void run() -- this method is the entry point of the thread. Execution of thread starts from this method.
+		~ void sleep(int sleeptime) -- this method suspends the thread for mentioned time duration in argument (sleeptime in ms).
+		~ void yield() -- By invoking this method The current thread pause its execution temporarily and allow other threads to execute.
+		~ void join() -- This method used to queue up a thread in execution. Once called on thread,current thread will wait till calling thread completes its execution.
+		~ boolean isAlive() -- This method will check if thread is alive or dead.
+	THREAD PRIORITY:-
+		~ The intNumber is an integer value to run
+	 	~ public static int MIN_PRIORITY = 1
+		~ public static int NORM_PRIORITY = 5
+		~ public static int MAX_PRIORITY = 10
 
 JAVA Concurrency
 
