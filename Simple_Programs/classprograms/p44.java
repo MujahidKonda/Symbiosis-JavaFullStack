@@ -17,7 +17,7 @@ class threadr2 implements Runnable{
 class p44{
     public static void main(String[] args){
         System.out.println("Hello");
-        System.out.println("MAin Thread is "+Thread.currentThread().getName());
+        System.out.println("Main Thread is "+Thread.currentThread().getName());
         threadr1 t1 = new threadr1();
         threadr2 t2 = new threadr2();
         Thread t3 = new Thread(t1);
