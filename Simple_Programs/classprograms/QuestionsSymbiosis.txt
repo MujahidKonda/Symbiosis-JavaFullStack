@@ -1,0 +1,15 @@
+1. Change case of each character in a string
+
+2. WAP to sort character in a string
+
+3. WAP to find the largest word in a given string
+
+4. calculate frequency of character in a string
+
+5. convert binary to decimal
+
+6. remove duplicates from unshorted array
+
+7. rearrage array in increaing order
+
+8. WAP to reverse a string
