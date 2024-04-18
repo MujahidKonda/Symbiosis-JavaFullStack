@@ -186,3 +186,74 @@ JAVA Concurrency
 		~ Code reusability
 		~ Improved maintainability
 		~ Increased security
+
+JAVA TreeSet 
+
+	DEFINATION:-
+		~ A TreeSet is a data structure that stores elements in sorted order.
+		~ The elements in a TreeSet are sorted according to their natural order.
+		~ The natural order of an element is determined by its compareTo() method.
+	TYPES:-
+		~ Natural order
+		~ Reverse order
+	ADVANTAGES:-
+		~ Code reusability
+		~ Improved maintainability
+		~ Increased security
+
+JAVA Stack
+
+	DEFINATION:-
+		~ A stack is a data structure that stores elements in a last-in, first-out (LIFO) order.
+		~ The last element that is added to the stack is the first element that is removed.
+		~ Stacks are often used to implement other data structures, such as queues and linked lists.
+	TYPES:-
+		~ Array-based stacks
+		~ Linked list-based stacks
+	ADVANTAGES:-
+		~ Code reusability
+		~ Improved maintainability
+		~ Increased security
+
+JAVA Queue
+
+	DEFINATION:-
+		~ A queue is a data structure that stores elements in a first-in, first-out (FIFO) order.
+		~ The first element that is added to the queue is the first element that is removed.
+		~ Queues are often used to implement other data structures, such as stacks and linked lists.
+	TYPES:-
+		~ Array-based queues
+		~ Linked list-based queues
+	ADVANTAGES:-
+		~ Code reusability
+		~ Improved maintainability
+		~ Increased security
+
+JAVA Linked List
+
+	DEFINATION:-
+		~ A linked list is a data structure that stores elements in a linear order.
+		~ Each element in a linked list is stored in a node.
+		~ A node contains a value and a pointer to the next node in the list.
+	TYPES:-
+		~ Singly linked lists
+		~ Doubly linked lists
+	ADVANTAGES:-
+		~ Code reusability
+		~ Improved maintainability
+		~ Increased security
+
+JAVA Binary Search Tree
+
+	DEFINATION:-
+		~ A binary search tree is a data structure that stores elements in a sorted order.
+		~ The elements in a binary search tree are stored in nodes.
+		~ Each node contains a value and two pointers, one to the left child node and one to the right child node.
+	TYPES:-
+		~ Binary search trees
+		~ AVL trees
+		~ Red-black trees
+	ADVANTAGES:-
+		~ Code reusability
+		~ Improved maintainability
+		~ Increased security
